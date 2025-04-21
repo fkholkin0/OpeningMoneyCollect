@@ -1,7 +1,7 @@
 ---
 layout: default
 title : Сбор средств
-description : 
+description : Собираем денюжки на шарики
 
 ---
 
