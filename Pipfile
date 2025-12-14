@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+pandas = "*"
+numpy = "*"
+gspread = "*"
+gspread-dataframe = "*"
+streamlit-searchbox = "*"
+pathlib = "*"
+pyyaml = "*"
+google-auth = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.13"
+python_full_version = "3.13.2"

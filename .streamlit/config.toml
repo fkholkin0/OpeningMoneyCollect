@@ -1,0 +1,15 @@
+[client]
+showSidebarNavigation = true
+
+[server]
+runOnSave = true
+enableStaticServing = true
+
+[runner]
+caching = true
+
+[theme]
+base="dark"
+primaryColor="#66C797"
+secondaryBackgroundColor="#323740"
+textColor="#FFFFFF"
